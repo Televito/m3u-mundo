@@ -1,0 +1,170 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sRsCcT6.png", La 1 | SD | España
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2V6Zqab.png", La 2 | SD | España
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png", UCV  | SD | Valparaíso
+https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png", TV+ | FHD | Valparaíso
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png", Contivisión | HD | Constitución
+http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png", TV CHILE | HD | Santiago 
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SVy05TP.png", TVN Chile | HD | Santiago 
+https://cl-v1-c-e-aa1.cdn.mdstrm.com/live-stream/5346f657c1e6f5810b5b9df3/publish/media_1000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFwKADf.png", Canal Sur Andalucía | FHD | España
+https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UnWMRrT.png", Canal 9 | SD | Concepción
+https://unlimited2-cl.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuJMNzd.png", Life TV | HD | España
+http://media.profesionalhosting.com:1935/8201/8201/chunklist_w1047512158.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hgJhU1u.png", Media TV| HD | España
+http://media.profesionalhosting.com:1935/8175/8175/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Spc1n7c.png", Red TV| HD | España
+http://media.profesionalhosting.com:1935/8437/8437/chunklist_w1060324053.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AwzIEPu.png", Tele 13 | HD | Santiago
+https://www.youtube.com/watch?v=aqPIiyPI10c
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg", Meganoticias | HD | Santiago
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png", Deutsche Welle Latino | SD | Alemania 
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ED2nTR.png", CGTN ESPAÑOL| SD | China
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7ig9hB.jpg", HispanTV | SD | Irán
+https://live1.presstv.com/live/hispan.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SeiG5UX.png", Rusia Today Español| HD | Rusia 
+http://rt-esp.secure.footprint.net/1102.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gj1AlKT.png", JN19 | SD | Perú
+https://mediastreamm.com:19360/jn19tv/jn19tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e61XJNb.png", Canal ISB | SD | Chile
+https://unlimited6-cl.dps.live/isb/isb.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WHpMl5N.png", Canal Orbe 21 | SD | Argentina
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ecP5OAn.jpg",  EWTN en español| FHD | Estados Unidos
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BUdu8HC.png", Mariavisión| FHD | México
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfwd9a.png", Monte María | HD | México
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/urPMzo7.png", Ceac TV | HD | Santiago
+https://videostreaming.cloudserverlatam.com/ceactv/ceactv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RAiUxSx.png", Rec On Line | HD | Bolivia
+https://master.tucableip.com/reconline/live/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMUYwMp.png", Cine Cable TV | SD | Ecuador
+https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z0MkleN.png", Rec TV | SD | Ecuador
+https://video.misistemareseller.com/Jonnytv/Jonnytv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t9gOcwz.png", Cine Club | SD | Perú
+https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w1314121416.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sXfxsoL.png", Kanade | HD | Chile
+http://207.246.84.143:8080/hls/Kanade.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png", Locomotion | SD | República Dominicana
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xNMvxoO.png", Snick | SD | Rep. Dominicana
+http://8.9.4.128:8080/hls/snick.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png", Tooncast | SD |
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hK6AHIn.png", Cachipum TV | SD | Chile
+https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png", Simpson TV | SD | Chile
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tMfw42m.png", Futurama Manía| FHD | Colombia
+https://m3u-editor.com/serve/rokumaniatest/156476844
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMF8pX1.png", El Chavo  TV | SD | Chile
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eaqJWmD.png", Dreiko TV | SD | Panamá
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OTxBese.png", TV Educa Chile| HD | Chile
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BADfaU8.png", Ipe | HD | Perú
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uGwFXeM.png", Educa  TV | HD | Ecuador
+https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NcyIsLR.png", Sexy K-POP | HD  | Brasil
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9TbpsS0.png",CMC-USA | HD | Estados Unidos
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FOiUOeW.png",MTV Latino | SD | Estados Unidos
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmA1MQW.png", Karibeña TV| SD | Perú
+https://cu.onliv3.com/livevd/user1_low/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z5NYyHk.png", 1Muz | HD | Bielorrusia
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Z6GjxM.png", 1Muz | HD | Rusia
+http://rtmp.one.by:2300/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ij8bN2x.png", Rewind TV | HD | Chile
+https://srv2.zcast.com.br/rewindtv/rewindtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUOD2oR.png", Mix 24/7| SD | Chile
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUOD2oR.png", Mix 24/7 Top 100| SD | Chile
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUOD2oR.png", Mix 24/7 Tropical| SD | Chile
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUOD2oR.png", Mix 24/7 Retro| SD | Chile
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUOD2oR.png", Mix 24/7 Pop| SD | Chile
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUOD2oR.png", Mix 24/7 Baladas| SD | Chile
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8
+
+
+
+
+
