@@ -8,14 +8,14 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2V6Zqab.png", La 2 | SD | España
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png", CN3 | HD | Argentina
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LFwKADf.png", Canal Sur Andalucía | FHD | España
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png", UCV  | SD | Valparaíso
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png", TV+ | FHD | Valparaíso
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png", Contivisión | HD | Constitución
 http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8
@@ -41,6 +41,9 @@ http://media.profesionalhosting.com:1935/8437/8437/chunklist_w1060324053.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwzIEPu.png", Tele 13 | HD | Santiago
 https://www.youtube.com/watch?v=aqPIiyPI10c
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png", TV+ | FHD | Valparaíso
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png", Deutsche Welle Latino | SD | Alemania 
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
@@ -53,9 +56,6 @@ https://live1.presstv.com/live/hispan.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SeiG5UX.png", Rusia Today Español| HD | Rusia 
 http://rt-esp.secure.footprint.net/1102.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e61XJNb.png", Canal ISB | SD | Chile
-https://unlimited6-cl.dps.live/isb/isb.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gj1AlKT.png", JN19 | SD | Perú
 https://mediastreamm.com:19360/jn19tv/jn19tv.m3u8
 
@@ -64,6 +64,9 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WHpMl5N.png", Canal Orbe 21 | SD | Argentina
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e61XJNb.png", Canal ISB | SD | Chile
+https://unlimited6-cl.dps.live/isb/isb.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUdu8HC.png", Mariavisión| FHD | México
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
@@ -89,8 +92,8 @@ http://207.246.84.143:8080/hls/Kanade.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png", Locomotion | SD | República Dominicana
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xNMvxoO.png", Snick | SD | Rep. Dominicana
-http://8.9.4.128:8080/hls/snick.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V60dnOp.png", Boomerang TV | HD | Rep. Dominicana
+http://8.9.4.128:8080/hls/boomerangtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lND6DKt.png", Tooncast | SD |
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
@@ -100,6 +103,10 @@ https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png", Simpson TV | SD | Chile
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2mDD6d0.png", Simpson Manía | SD | Colombia
+https://m3u-editor.com/serve/rokumaniatest/156476845
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tMfw42m.png", Futurama Manía| FHD | Colombia
 https://m3u-editor.com/serve/rokumaniatest/156476844
