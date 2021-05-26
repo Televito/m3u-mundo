@@ -54,7 +54,7 @@ http://162.212.176.51:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e61XJNb.png", Canal ISB | SD | Chile
 https://unlimited6-cl.dps.live/isb/isb.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DrKKuFY.png" group-title="Cristianos", Pax Tv | SD | Católico | Perú
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrKKuFY.png", Pax Tv | SD | Católico | Perú
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gj1AlKT.png", JN19 | SD | Perú
