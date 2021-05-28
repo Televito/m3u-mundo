@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 
@@ -18,11 +17,11 @@ https://unlimited1-cl-movistar.dps.live/lared/lared.smil/lared/livestream0/chunk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png", UCV  | SD | Valparaíso
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFwKADf.png", Canal Sur Andalucía | FHD | España
-https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/chunklist_b2200000_DVR.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png", TV CHILE | HD | Santiago 
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SVy05TP.png", TVN Chile
+https://m3u-editor.com/serve/televito85/304808116
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/urPMzo7.png", Ceac TV | HD | Santiago
 https://videostreaming.cloudserverlatam.com/ceactv/ceactv/playlist.m3u8
@@ -30,17 +29,17 @@ https://videostreaming.cloudserverlatam.com/ceactv/ceactv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UnWMRrT.png", Canal 9 | SD | Concepción
 https://unlimited2-cl.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tuJMNzd.png", Life TV | HD | España
-http://media.profesionalhosting.com:1935/8201/8201/chunklist_w1047512158.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/BapqWkd.png", Mega | HD | Santiago
+https://m3u-editor.com/serve/televito85/298499915
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hgJhU1u.png", Media TV| HD | España
-http://media.profesionalhosting.com:1935/8175/8175/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Spc1n7c.png", Red TV| HD | España
-http://media.profesionalhosting.com:1935/8437/8437/chunklist_w1060324053.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/uOWFEXO.png", Chilevisión | HD | Santiago
+https://m3u-editor.com/serve/televito85/298499911
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Z6S3GQ.png", TV+ | FHD | Valparaíso
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/nCw8qUd.png", Canal 13 | HD | Santiago
+https://m3u-editor.com/serve/televito85/298499897
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LHn9ofg.png", Contivisión | HD | Constitución
 http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestream1/chunks.m3u8
@@ -81,6 +80,18 @@ https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SeiG5UX.png", Rusia Today Español| HD | Rusia 
 http://rt-esp.secure.footprint.net/1102.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuJMNzd.png", Life TV | HD | España
+http://media.profesionalhosting.com:1935/8201/8201/chunklist_w1047512158.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hgJhU1u.png", Media TV| HD | España
+http://media.profesionalhosting.com:1935/8175/8175/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Spc1n7c.png", Red TV| HD | España
+http://media.profesionalhosting.com:1935/8437/8437/chunklist_w1060324053.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFwKADf.png", Canal Sur Andalucía | FHD | España
+https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/chunklist_b2200000_DVR.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4A4nhIx.png", Simpson TV | SD | Chile
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
 
@@ -119,13 +130,3 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUOD2oR.png", Mix 24/7 Baladas| SD | Chile
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8
-
-
-
-
-
-
-
-
-
-
