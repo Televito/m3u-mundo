@@ -11,7 +11,7 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PMUZRDT.png", CN3 | HD | Argentina
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eJ7NopC.png", La Red | FHD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eJ7NopC.png", La Red | FHD | Santiago
 https://unlimited1-cl-movistar.dps.live/lared/lared.smil/lared/livestream0/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png", UCV  | SD | Valparaíso
@@ -20,7 +20,7 @@ https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6UoixA8.png", TV CHILE | HD | Santiago 
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SVy05TP.png", TVN Chile
+#EXTINF: -1 tvg-logo="https://i.imgur.com/SVy05TP.png", TVN Chile | HD | Santiago
 https://m3u-editor.com/serve/televito85/304808116
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/urPMzo7.png", Ceac TV | HD | Santiago
@@ -53,7 +53,7 @@ http://162.212.176.51:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e61XJNb.png", Canal ISB | SD | Chile
 https://unlimited6-cl.dps.live/isb/isb.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DrKKuFY.png", Pax Tv | SD | Católico | Perú
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrKKuFY.png", Pax Tv | SD | Perú
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gj1AlKT.png", JN19 | SD | Perú
@@ -71,10 +71,10 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8ED2nTR.png", CGTN Español | SD | China
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PU2cqzN.png", 24 Play | HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PU2cqzN.png", 24 Play | HD | Santiago
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uSp9hWW.png", CNN Chile | HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uSp9hWW.png", CNN Chile | HD | Santiago
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SeiG5UX.png", Rusia Today Español| HD | Rusia 
